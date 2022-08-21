@@ -71,17 +71,17 @@ expo install react-native-screens react-native-safe-area-context @react-navigati
 - react-native-gesture-handler
 - react-native-reanimated
 
-Redux Yarn Installation
+Redux+Animation Yarn Installation
 ```
 yarn add react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
 
-Redux NPM Installation
+Redux+Animation NPM Installation
 ```
 npm install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
 
-Redux Expo Installation
+Redux+Animation Expo Installation
 ```
 expo install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
