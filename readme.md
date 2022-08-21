@@ -11,17 +11,17 @@
 
 Default Yarn Installation
 ```
-yarn add react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons
+yarn add react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons
 ```
 
 Default NPM Installation
 ```
-npm install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons
+npm install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons
 ```
 
 Default Expo Installation
 ```
-expo install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons
+expo install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons
 ```
 
 ---
@@ -41,17 +41,17 @@ expo install react-native-screens react-native-safe-area-context @react-navigati
 
 Redux Yarn Installation
 ```
-yarn add react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
+yarn add react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
 ```
 
 Redux NPM Installation
 ```
-npm install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
+npm install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
 ```
 
 Redux Expo Installation
 ```
-expo install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
+expo install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux
 ```
 
 ---
@@ -73,17 +73,17 @@ expo install react-native-screens react-native-safe-area-context @react-navigati
 
 Redux+Animation Yarn Installation
 ```
-yarn add react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
+yarn add react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
 
 Redux+Animation NPM Installation
 ```
-npm install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
+npm install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
 
 Redux+Animation Expo Installation
 ```
-expo install react-native-screens react-native-safe-area-context @react-navigation native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
+expo install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack react-native-vector-icons axios @types/react-native-vector-icons redux react-redux @react-native-community/async-storage @types/react-redux react-native-gesture-handler react-native-reanimated
 ```
 
 Add Reanimated's Babel plugin to your babel.config.js:
